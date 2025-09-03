@@ -68,3 +68,20 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Node / Ionic / Angular
+node_modules/
+dist/
+build/
+www/
+.platform/
+.plugins/
+
+# IDE / SO
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Env/keys (si tuvieras)
+*.env
+.env*
